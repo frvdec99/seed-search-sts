@@ -1,0 +1,4 @@
+.idea/
+cmake-build-debug/
+data_seed/
+.DS_Store
